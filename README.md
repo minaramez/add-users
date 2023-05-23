@@ -62,5 +62,3 @@ Note: If any errors occur during the user creation process, an error message is 
 
 ## Note
 This script is specifically designed to run on a Linux machine. Please ensure that you have the necessary permissions to add users and execute system commands.
-
-For any questions or issues, please contact the script author: Mina Ramez Farag.
