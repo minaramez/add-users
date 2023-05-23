@@ -62,3 +62,8 @@ Note: If any errors occur during the user creation process, an error message is 
 
 ## Note
 This script is specifically designed to run on a Linux machine. Please ensure that you have the necessary permissions to add users and execute system commands.
+
+## License
+This project is licensed under the [MIT License](LICENSE). Feel free to modify and distribute the script according to the terms of the license.
+
+By utilizing this script, organizations can proactively identify potential security threats, analyze failed login attempts, and enhance their overall security infrastructure.
