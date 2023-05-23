@@ -1,2 +1,1 @@
-# add-users
-Script for system administrators to automate user addition, improving efficiency. Initial time investment pays off by reducing future workload.
+System administrators frequently create scripts to automate repetitive tasks, such as user management. Developing a script for adding users saves time and enhances efficiency. While the initial investment in script writing may be significant, it pays off by reducing future effort when adding more users to the system.
